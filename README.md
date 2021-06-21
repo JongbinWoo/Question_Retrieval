@@ -19,5 +19,14 @@
 
 ##  학습
 - Bi-Encoder
-
+```
+python train_bi_encoder.py
+```
 - Cross-Encoder
+
+```
+python train_cross_encoder.py
+```
+
+## 사용
+question_retrieval.ipynb
