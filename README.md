@@ -30,3 +30,6 @@ python train_cross_encoder.py
 
 ## 사용
 question_retrieval.ipynb
+
+###
+Blog: [link](https://jblog.oopy.io/d1332fe7-a338-4d55-bd2e-dafbc1c43cd4)
